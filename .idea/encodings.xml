@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-auth/emporium-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-auth/emporium-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-crew" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-crew/emporium-crew-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-crew/emporium-crew-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-gataway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-item/emporium-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-item/emporium-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-poi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-search/emporium-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-search/emporium-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emporium-upload" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

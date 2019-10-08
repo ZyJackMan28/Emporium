@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="emporium-auth-common" />
+        <module name="emporium-auth-service" />
+        <module name="emporium-cart" />
+        <module name="emporium-common" />
+        <module name="emporium-crew-interface" />
+        <module name="emporium-crew-service" />
+        <module name="emporium-gataway" />
+        <module name="emporium-item-interface" />
+        <module name="emporium-item-service" />
+        <module name="emporium-order" />
+        <module name="emporium-page" />
+        <module name="emporium-poi" />
+        <module name="emporium-registry" />
+        <module name="emporium-search-interface" />
+        <module name="emporium-search-service" />
+        <module name="emporium-sms" />
+        <module name="emporium-upload" />
+        <module name="emporiumuse-rinterface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="emporium-user" target="1.8" />
+      <module name="emporium-user-interface" target="1.8" />
+      <module name="emporium-user-service" target="1.8" />
+      <module name="emporiumuse-rinterface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="emporium-auth" options="-parameters" />
+      <module name="emporium-auth-common" options="-parameters" />
+      <module name="emporium-auth-service" options="-parameters" />
+      <module name="emporium-cart" options="-parameters" />
+      <module name="emporium-common" options="-parameters" />
+      <module name="emporium-crew-interface" options="-parameters" />
+      <module name="emporium-crew-service" options="-parameters" />
+      <module name="emporium-gataway" options="-parameters" />
+      <module name="emporium-item" options="-parameters" />
+      <module name="emporium-item-interface" options="-parameters" />
+      <module name="emporium-item-service" options="-parameters" />
+      <module name="emporium-order" options="-parameters" />
+      <module name="emporium-page" options="-parameters" />
+      <module name="emporium-poi" options="-parameters" />
+      <module name="emporium-registry" options="-parameters" />
+      <module name="emporium-search" options="-parameters" />
+      <module name="emporium-search-interface" options="-parameters" />
+      <module name="emporium-search-service" options="-parameters" />
+      <module name="emporium-sms" options="-parameters" />
+      <module name="emporium-upload" options="-parameters" />
+      <module name="emporium-user" options="-parameters" />
+      <module name="emporium-user-interface" options="-parameters" />
+      <module name="emporium-user-service" options="-parameters" />
+      <module name="emporiumuse-rinterface" options="-parameters" />
+    </option>
+  </component>
+</project>

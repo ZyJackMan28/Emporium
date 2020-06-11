@@ -10,12 +10,7 @@ spring:
     virtual-host: /emp
   redis:
     host: 192.168.1.105
-emp:
-  sms:
-    accessKeyId: LTAIihB9ALQro3kO
-    accessKeySecret: 5vrw10C7m5kNJw3PkKIis8GMZGOVzu
-    signName: emporium
-    verifyCodeTemplate: SMS_172597576
+
 eureka:
   client:
     service-url:

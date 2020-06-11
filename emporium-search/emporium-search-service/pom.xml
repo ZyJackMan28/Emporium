@@ -29,7 +29,7 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
-        <!-- feign 作为服务之间的调用类似zookkeeper-->
+        <!-- feign 作为服务之间的调用类似zookeeper-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>

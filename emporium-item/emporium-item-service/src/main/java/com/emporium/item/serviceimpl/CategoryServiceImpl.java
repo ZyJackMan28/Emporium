@@ -26,7 +26,7 @@ public class CategoryServiceImpl implements CategoryService {
         Category category = new Category();
         category.setParentId(pid);
         List<Category> categoryList = categoryMapper.select(category);
-        //判断lists是否为空
+        //        //判断lists是否为空
         if(CollectionUtils.isEmpty(categoryList)){
             throw new EpException(EnumsStatus.CATAGORY_IS_NOT_FOUND);
         }

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <!--注意聚合工程打包方式必须是pom-->
+    <!--注意聚合工程打包方式必须是pom  -->
     <groupId>com.emporium.auth</groupId>
     <artifactId>emporium-auth</artifactId>
     <packaging>pom</packaging>

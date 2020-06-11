@@ -24,19 +24,35 @@
         <module name="emporium-search-service" />
         <module name="emporium-sms" />
         <module name="emporium-upload" />
-        <module name="emporiumuse-rinterface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="emporium-user" target="1.8" />
-      <module name="emporium-user-interface" target="1.8" />
-      <module name="emporium-user-service" target="1.8" />
-      <module name="emporiumuse-rinterface" target="1.8" />
+      <module name="emporium" target="1.8" />
+      <module name="emporium-auth" target="1.8" />
+      <module name="emporium-auth-common" target="1.8" />
+      <module name="emporium-auth-service" target="1.8" />
+      <module name="emporium-cart" target="1.8" />
+      <module name="emporium-common" target="1.8" />
+      <module name="emporium-crew" target="1.8" />
+      <module name="emporium-crew-interface" target="1.8" />
+      <module name="emporium-crew-service" target="1.8" />
+      <module name="emporium-gataway" target="1.8" />
+      <module name="emporium-item" target="1.8" />
+      <module name="emporium-item-interface" target="1.8" />
+      <module name="emporium-item-service" target="1.8" />
+      <module name="emporium-order" target="1.8" />
+      <module name="emporium-page" target="1.8" />
+      <module name="emporium-poi" target="1.8" />
+      <module name="emporium-registry" target="1.8" />
+      <module name="emporium-search" target="1.8" />
+      <module name="emporium-search-interface" target="1.8" />
+      <module name="emporium-search-service" target="1.8" />
+      <module name="emporium-sms" target="1.8" />
+      <module name="emporium-upload" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="emporium-auth" options="-parameters" />
       <module name="emporium-auth-common" options="-parameters" />
       <module name="emporium-auth-service" options="-parameters" />
       <module name="emporium-cart" options="-parameters" />
@@ -44,22 +60,16 @@
       <module name="emporium-crew-interface" options="-parameters" />
       <module name="emporium-crew-service" options="-parameters" />
       <module name="emporium-gataway" options="-parameters" />
-      <module name="emporium-item" options="-parameters" />
       <module name="emporium-item-interface" options="-parameters" />
       <module name="emporium-item-service" options="-parameters" />
       <module name="emporium-order" options="-parameters" />
       <module name="emporium-page" options="-parameters" />
       <module name="emporium-poi" options="-parameters" />
       <module name="emporium-registry" options="-parameters" />
-      <module name="emporium-search" options="-parameters" />
       <module name="emporium-search-interface" options="-parameters" />
       <module name="emporium-search-service" options="-parameters" />
       <module name="emporium-sms" options="-parameters" />
       <module name="emporium-upload" options="-parameters" />
-      <module name="emporium-user" options="-parameters" />
-      <module name="emporium-user-interface" options="-parameters" />
-      <module name="emporium-user-service" options="-parameters" />
-      <module name="emporiumuse-rinterface" options="-parameters" />
     </option>
   </component>
 </project>
